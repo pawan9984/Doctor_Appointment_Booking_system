@@ -201,16 +201,6 @@ Older setup steps are also shown in this video (database provider may differ; **
 
 ---
 
-## Author & contact
-
-**Ujjal Zaman**
-
-- **Website / portfolio:** [ujjalzaman.com](https://ujjalzaman.com/)  
-- **Email:** [ujjalzaman@gmail.com](mailto:ujjalzaman@gmail.com)
-
-Have a product idea, a similar project, or want to collaborate? Reach out via the website or email — I’m happy to hear from you.
-
----
 
 ## License & thanks
 
